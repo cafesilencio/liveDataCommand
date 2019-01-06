@@ -1,2 +1,1 @@
-# liveDataCommand
-# liveDataCommand
+This projet contains code used to support a Medium article I wrote https://medium.com/@sebo_sebo. The article explores using Android's Live Data with the command pattern passing view mutation commands via the Live Data rather than a state object. Read the article for more details.
